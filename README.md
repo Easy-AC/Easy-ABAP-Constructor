@@ -31,15 +31,15 @@ Examples
 
 The images below will briefly display what we are proposing with the Easy ABAP Constructor.
 
-1 - First screen. Select what you want in your program and click on "Confirm" button.
+1 - In the first screen you select what you want in your program and click on "Confirm" button.
 <a href="http://www.casimages.com.br/i/140314100110308874.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100110308874.jpg" border="0" alt="hospedar imagem" /></a>
 =======
 
-2 - Here you will start to provide features of your program.
+2 - Here you will start to provide the features of your program according to what you selected in the first screen.
 <a href="http://www.casimages.com.br/i/140314100425967918.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100425967918.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-3 - After pressing Enter, will displayed more informations to be selected.
+3 - After pressing Enter, will be displayed other options to be selected.
 <a href="http://www.casimages.com.br/i/14031410042951680.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/14031410042951680.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
@@ -51,7 +51,7 @@ The images below will briefly display what we are proposing with the Easy ABAP C
 <a href="http://www.casimages.com.br/i/140314100435487371.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100435487371.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-6 - Will be displayed a success message.
+6 - If everything went well, will be displayed a success message.
 <a href="http://www.casimages.com.br/i/140314100438706717.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100438706717.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
@@ -59,39 +59,39 @@ The images below will briefly display what we are proposing with the Easy ABAP C
 <a href="http://www.casimages.com.br/i/140314100441464968.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100441464968.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-8 - Like last screen, at each step will display more options to be selected.
+8 - As on the previous screen, at each step will be displayed more options to be selected.
 <a href="http://www.casimages.com.br/i/140314100445453838.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100445453838.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-9 - Sometimes, when you finish the filling of options and informations, some statements will be changed! Look at last statement in screen: "You should config...".
+9 - Note the statements below are changed when you finish filling out the options and necessary informations. Take a look at the last statement below: "You should config...".
 <a href="http://www.casimages.com.br/i/140314100449430188.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100449430188.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-10 - The statement was changed, click on "Confirm" button.
+10 - The statement has been changed, click the "Confirm" button.
 <a href="http://www.casimages.com.br/i/140314100452829369.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100452829369.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-11 - Will be displayed a success message again.
+11- A success message will be displayed again.
 <a href="http://www.casimages.com.br/i/140314100456150518.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100456150518.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-12 - Well done, your coding is ready. Now you must test the coding before create your program with it. To it, click on "Test" button.
+12 - Well done, your code is ready. Now you can test the coding before creating your program. To do it, click on "Test" button.
 <a href="http://www.casimages.com.br/i/140314100459597051.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100459597051.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-13 - First screen of your coding.
+13 - First screen of your code.
 <a href="http://www.casimages.com.br/i/140314100503906126.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100503906126.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-14 - Second screen of your coding.
+14 - Second screen of your code.
 <a href="http://www.casimages.com.br/i/140314111619218574.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314111619218574.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-15 - Click twice on "Back". Provide the name that you wish to your program and click on "Create" button.
+15 - Double-clic the "Back" button. Put the name of your program click the "Create" button.
 <a href="http://www.casimages.com.br/i/140314100514198273.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100514198273.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
-16 - Your program was created successfully!
+16 - Your program has been created successfully!
 <a href="http://www.casimages.com.br/i/140314100516401344.jpg.html" target="_blank" title="hospedar imagens"><img src="http://nsae01.casimages.net/img/2014/03/14/140314100516401344.jpg" border="0" alt="hospedar imagem" /></a>
 ======
 
